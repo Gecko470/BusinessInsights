@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "fHDhzAkLknpHKDph9VKQyOscsS6OZELhM4HZzKSN0nI=",
+  "Source": "Einstein_Game",
+  "BasePath": "_content/Einstein_Game",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Einstein_Game\\wwwroot",
+      "Source": "Einstein_Game",
+      "ContentRoot": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\",
+      "BasePath": "_content/Einstein_Game",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\Informes\\Informe_11-05-2024.txt",
+      "SourceId": "Einstein_Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\",
+      "BasePath": "_content/Einstein_Game",
+      "RelativePath": "Informes/Informe_11-05-2024.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Informes\\Informe_11-05-2024.txt"
+    },
+    {
+      "Identity": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\Informes\\Informe_12-05-2024.txt",
+      "SourceId": "Einstein_Game",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\",
+      "BasePath": "_content/Einstein_Game",
+      "RelativePath": "Informes/Informe_12-05-2024.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Informes\\Informe_12-05-2024.txt"
+    }
+  ]
+}

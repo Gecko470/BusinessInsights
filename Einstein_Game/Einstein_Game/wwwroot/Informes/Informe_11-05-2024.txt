@@ -1,0 +1,5 @@
+
+Einstein Game
+Fecha: 11-05-2024
+
+fizz, 98, 58, 59, fizz, 92, fizz, buzz, fizz, fizz, 22, fizz, fizzBuzz, fizz, 91, 64, 94, fizz, buzz, 8, 14, 71, 67, 29, fizz, buzz, 34, buzz, buzz, 13, fizz, 

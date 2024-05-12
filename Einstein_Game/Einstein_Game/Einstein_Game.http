@@ -1,0 +1,6 @@
+@Einstein_Game_HostAddress = http://localhost:5108
+
+GET {{Einstein_Game_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

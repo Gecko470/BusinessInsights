@@ -1,0 +1,39 @@
+<div class="container">
+    <div class="background col col-md-8 mx-auto" style="height: 100vh;">
+        <div class="text-center">
+            <span class="text-warning fw-bold" style="font-size: 4rem;">Einstein Game</span>
+        </div>
+    
+        <div style="height: 75vh;"
+            class="w-100 mx-auto text-warning fs-2 fw-bold d-flex flex-column align-items-center justify-content-around">
+    
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <form autocomplete="off" [formGroup]="myForm">
+                        <div class="form-group">
+                            <label class="col-form-label">Límite:</label>
+                            <input (keyup)="setLimite()" type="text" formControlName="limite" class="form-control">
+                            <span class="fs-5" *ngIf="campoEsValido('limite')">
+                                Campo obligatorio
+                            </span>
+                            <div class="fs-5" *ngIf="mensaje">
+                                <span>{{ mensaje }}</span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+    
+                <div *ngIf="jugadas != 0" class="ms-5">
+                    <p>Jugadas: {{ jugadas }}</p>
+                </div>
+            </div>
+            
+            <div *ngIf="resp">
+                <p>Número: {{ num }} - Resultado: {{ resp }}</p>
+            </div>
+        </div>
+        <div class="w-25 mx-auto">
+            <button class="btn btn-outline-warning w-100" (click)="Jugar()" [disabled]="!valido || campoEsValido('limite')">Jugar</button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZrZouLhAfWAi7WI9sZymlfv94ehgoBn+Au0WZSItROTrb7PEi4kM4YHfX0sO7KY33dt9DdY2KlyhIucR/x+gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\Einstein_Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\nlog.extensions.logging\\5.3.11\\nlog.extensions.logging.5.3.11.nupkg.sha512",
+    "C:\\Users\\juang\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.11\\nlog.web.aspnetcore.5.3.11.nupkg.sha512"
+  ],
+  "logs": []
+}

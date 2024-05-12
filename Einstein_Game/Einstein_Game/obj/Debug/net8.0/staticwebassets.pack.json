@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\Informes\\Informe_11-05-2024.txt",
+      "PackagePath": "staticwebassets\\Informes\\Informe_11-05-2024.txt"
+    },
+    {
+      "Id": "C:\\Users\\juang\\Desktop\\Desarrollo\\NET\\repos\\Proyectos\\Business_Insights\\Einstein_Game\\Einstein_Game\\wwwroot\\Informes\\Informe_12-05-2024.txt",
+      "PackagePath": "staticwebassets\\Informes\\Informe_12-05-2024.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Einstein_Game.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Einstein_Game.props",
+      "PackagePath": "build\\Einstein_Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Einstein_Game.props",
+      "PackagePath": "buildMultiTargeting\\Einstein_Game.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Einstein_Game.props",
+      "PackagePath": "buildTransitive\\Einstein_Game.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
